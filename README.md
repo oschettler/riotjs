@@ -1,3 +1,7 @@
+### Changes
+
+- Added composer.json to make it installable through https://getcomposer.org
+
 ![This is a RIOT!](https://muut.com/m/img/riotjs/riot-1.png)
 
 ### The 1kb client side MVP library
